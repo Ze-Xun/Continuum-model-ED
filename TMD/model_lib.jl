@@ -1,6 +1,6 @@
 
 function band_single_k(theta_::Number,k::Tuple,nK::Number)
-
+    # this is Liang's parameter set
     theta=theta_/180*pi;
     a0=3.52e-10;
     w = 13.3;
